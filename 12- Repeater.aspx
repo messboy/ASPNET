@@ -20,7 +20,6 @@
                             <td><b>Title</b></td>
                             <td><b>Summary</b></td>
                         </tr>
-                    
             </HeaderTemplate>
             <ItemTemplate>
                 <tr>
