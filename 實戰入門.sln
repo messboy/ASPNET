@@ -22,6 +22,9 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "實戰入門", ".", "{28549
 	EndProjectSection
 EndProject
 Global
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 013324e1-07ec-4f11-83f7-e473244e2123
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
