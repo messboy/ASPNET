@@ -39,7 +39,7 @@ public partial class _14_adonet_reader_muti : System.Web.UI.Page
                 DropDownList1.Items.Add(dr[1].ToString());
             }
                
-            //dr 下一筆查詢資料結果
+            //dr 下一筆查詢資料結果，回傳true代表有新指令的結果
             dr.NextResult();
             //dr 讀取SQL第二筆查詢資料結果
             while (dr.Read())
